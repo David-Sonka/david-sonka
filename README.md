@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Rust<br><br>Junk account: takoda121</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Rust<br><br>Junk account: takoda121 (suspended)</p>
 
 ###
 
